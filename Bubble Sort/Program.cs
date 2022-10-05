@@ -54,7 +54,6 @@ namespace Bubble_Sort
             }
             Console.WriteLine("");
         }
-
         static void Main(string[] args)
         {
 
